@@ -8,7 +8,7 @@ In this task we extract the required information or data from the belw we
 **https://qcpi.questcdn.com/cdn/posting/?group=1950787&provider=1950787**
 about the website : The website provides information about construction projects and bids posted by the Idaho Transportation Department. It includes details such as bid closing dates, project categories, locations, and the involved parties. Users can search for specific postings and view bid results. The website serves as a platform for contractors and vendors to engage with the transportation department for project opportunities.
 
-# Webscraping application
+# Webscraping applications
 
 The webscraping can be useful to the data analysts and others in many ways like below website
 
@@ -20,3 +20,4 @@ Competitor Monitoring: Web scraping enables businesses to keep track of their co
 
 Data collection: By scraping websites, businesses can collect contact information from potential leads, allowing them to create targeted marketing campaigns or build prospect lists.
 
+# Required Languages,Libraries & Modules
