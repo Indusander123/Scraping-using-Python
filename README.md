@@ -21,3 +21,31 @@ Competitor Monitoring: Web scraping enables businesses to keep track of their co
 Data collection: By scraping websites, businesses can collect contact information from potential leads, allowing them to create targeted marketing campaigns or build prospect lists.
 
 # Required Languages,Libraries & Modules
+
+The required libraries for this project are **`requests`** and **`BeautifulSoup`**.
+
+1. **Requests**: This library allows us to send HTTP requests to the website and retrieve the HTML content. It simplifies the process of interacting with web pages programmatically.
+
+   To install `requests`, open your command prompt or terminal and run the following command:
+   ```
+  ** pip install requests**
+   ```
+
+2. **BeautifulSoup**: This library is used for parsing the HTML content and extracting specific data from it. It provides convenient methods to navigate through the HTML structure and locate desired elements.
+
+   To install `BeautifulSoup`, use the following command:
+   ```
+  ** pip install beautifulsoup4**
+   ```
+
+Make sure you have Python installed on your system. The code provided is compatible with Python 3.x versions. You can check the installed version of Python by running the following command in your command prompt or terminal:
+```
+**python --version**
+```
+
+If you have multiple Python versions installed, you can specify the version explicitly when running the script, for example:
+```
+**python3 my_script.py**
+```
+
+Please note that the specific versions of `requests` and `BeautifulSoup` may vary depending on the date you are running the installation.
