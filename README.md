@@ -2,10 +2,14 @@
 The Scraping using python  task involves scraping a website to extract information from the first five postings under the "Search Postings" heading. The Python program uses the Beautiful Soup library to parse the HTML content and retrieve fields such as Est. Value Notes, Description, and Closing Date.
 
 #**Purpose of the Project**
+objective of the project: extracting the first five postings under the "Search Postings" heading.
+
 In this task we extract the required information or data from the belw we
 **https://qcpi.questcdn.com/cdn/posting/?group=1950787&provider=1950787**
+about the website : The website provides information about construction projects and bids posted by the Idaho Transportation Department. It includes details such as bid closing dates, project categories, locations, and the involved parties. Users can search for specific postings and view bid results. The website serves as a platform for contractors and vendors to engage with the transportation department for project opportunities.
 
 #**Webscraping application**
+
 The webscraping can be useful to the data analysts and others in many ways like below website
 
 Data Extraction: Web scraping automates the process of extracting data from websites, allowing users to retrieve specific information efficiently.
@@ -15,3 +19,4 @@ Data Analysis: Scraped data can be used for various analytical purposes, such as
 Competitor Monitoring: Web scraping enables businesses to keep track of their competitors by gathering data on pricing, product information, promotions, and customer reviews.
 
 Data collection: By scraping websites, businesses can collect contact information from potential leads, allowing them to create targeted marketing campaigns or build prospect lists.
+
