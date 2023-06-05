@@ -28,14 +28,14 @@ The required libraries for this project are **`requests`** and **`BeautifulSoup`
 
    To install `requests`, open your command prompt or terminal and run the following command:
    ```
-  ** pip install requests**
+   pip install requests
    ```
 
 2. **BeautifulSoup**: This library is used for parsing the HTML content and extracting specific data from it. It provides convenient methods to navigate through the HTML structure and locate desired elements.
 
    To install `BeautifulSoup`, use the following command:
    ```
-  ** pip install beautifulsoup4**
+   pip install beautifulsoup4
    ```
 
 Make sure you have Python installed on your system. The code provided is compatible with Python 3.x versions. You can check the installed version of Python by running the following command in your command prompt or terminal:
