@@ -49,5 +49,5 @@ Make sure you have Python installed on your system. The code provided is compati
 
 If you have multiple Python versions installed, you can specify the version explicitly when running the script, for example:
 ```
-python3 my_script.py
+python3 code.py
 ```
