@@ -1,0 +1,30 @@
+# Output
+
+The output is a list of dictionaries, where each dictionary represents a posting under the "Search Postings" heading. Each dictionary contains fields such as Est. Value Notes, Description, and Closing Date. This structured data can be further processed or analyzed for various purposes, such as filtering, sorting, or generating reports.
+
+Postings under "Search Postings" Heading:
+Est. Value Notes: N/A
+Description: Street/Roadway Reconstruction
+Key No. 22408 3000 E & FOOTHILL RD CURVE, TWIN FAL...
+Closing Date: 06/06/2023 02:00 PM MDT
+
+Est. Value Notes: N/A
+Description: Traffic Control Devices (Signa...
+Key No. 24192 SH-75, Ohio Gulch Road Intersection
+Closing Date: 06/06/2023 02:00 PM MDT
+
+Est. Value Notes: N/A
+Description: Roadway Pavement Markings
+Key No. 23815 FY24 D6 STRIPING
+Closing Date: 06/06/2023 02:00 PM MDT
+
+Est. Value Notes: N/A
+Description: Roadway Pavement Markings
+Key No. 21842, I-84, FY23 D4 Interstate Striping
+Closing Date: 06/06/2023 02:00 PM MDT
+
+Est. Value Notes: N/A
+Description: Seal Coating
+Key No. 20592 / 20482 SH-3, CDA RV BR to I-90, SH-...
+Closing Date: 06/06/2023 02:00 PM MDT
+
