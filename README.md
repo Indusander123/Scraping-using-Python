@@ -38,6 +38,10 @@ The required libraries for this project are **`requests`** and **`BeautifulSoup`
    pip install beautifulsoup4
    ```
 
+# output
+
+To perform the webscraping we have to run the code follow the below steps
+
 Make sure you have Python installed on your system. The code provided is compatible with Python 3.x versions. You can check the installed version of Python by running the following command in your command prompt or terminal:
 ```
 **python --version**
@@ -45,7 +49,5 @@ Make sure you have Python installed on your system. The code provided is compati
 
 If you have multiple Python versions installed, you can specify the version explicitly when running the script, for example:
 ```
-**python3 my_script.py**
+python3 my_script.py
 ```
-
-Please note that the specific versions of `requests` and `BeautifulSoup` may vary depending on the date you are running the installation.
