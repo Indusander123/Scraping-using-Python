@@ -4,7 +4,7 @@ The Scraping using python  task involves scraping a website to extract informati
 # Purpose of the Project
 objective of the project: extracting the first five postings under the "Search Postings" heading.
 
-In this task we extract the required information or data from the belw we
+In this task we extract the required information or data from the below website
 **https://qcpi.questcdn.com/cdn/posting/?group=1950787&provider=1950787**
 about the website : The website provides information about construction projects and bids posted by the Idaho Transportation Department. It includes details such as bid closing dates, project categories, locations, and the involved parties. Users can search for specific postings and view bid results. The website serves as a platform for contractors and vendors to engage with the transportation department for project opportunities.
 
